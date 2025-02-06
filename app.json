@@ -12,11 +12,11 @@
     "stack": "heroku-22",
     "env": {
         "API_ID": {
-            "description": "24954614",
+            "description": "2614",
             "required": true
         },
         "API_HASH": {
-            "description": "854d71e266722a054d214898c754c70b",
+            "description": "822a054d214898c754c70b",
             "required": true
         },
         "BOT_TOKEN": {
